@@ -1,5 +1,4 @@
-## Hi there 👋
-I am William Peyton!
+## Hi there 👋 I'm Tristan!
 - 😄 Pronouns: He/Him
 - 🕰️ Age: 19 Years Old - Sophomore in College
 Professional:
