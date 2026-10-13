@@ -9,8 +9,8 @@ Professional:
   
 Academic:
 - 🏫: I'm attending The University of South Carolina at Columbia
-- 📘: I'm studying Computer Science with a minor in Mathematics
-- 😎: I'm associated with Kappa Theta Pi, Gamecock Swimming Club, Engineering Without Borders, and MCEC Ambassadors
+- 📘: I'm studying Computer Science with a Minor in Electrical Engineering
+- 😎: I'm a member of Kappa Theta Pi, Gamecock Swimming Club, Engineering Without Borders
   
 Personal:
 - 💬 Ask me about indie music, hiking, swimming, running, or thrifting and I will talk your ear off.
